@@ -34,3 +34,6 @@ You can upload this contract and interract with it either via your own local Can
 
 ## License
 This NFT template is [MIT](LICENSE)
+
+## Other
+Video: https://www.youtube.com/watch?v=vXj7eR-dIMY
